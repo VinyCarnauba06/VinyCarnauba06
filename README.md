@@ -16,8 +16,7 @@
 
 - [🇧🇷 Português](#-português)
 - [🇺🇸 English](#-english)
-- [🇪🇸 Español](#-español)
-
+  
 ---
 
 ## 🇧🇷 Português
