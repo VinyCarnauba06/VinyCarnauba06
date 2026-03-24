@@ -32,7 +32,7 @@ Atualmente me aprofundando também em segurança da informação.
 ### 🔭 Atualmente
 
 - Trabalhando em: **AGE Reservas (Prolar)**
-- Estudando: **Segurança da Informação · Cálculo II**
+- Estudando: **Segurança da Informação**
 
 ---
 
@@ -69,7 +69,7 @@ Also developing skills in cybersecurity.
 ### 🔭 Currently
 
 - Working on: **AGE Reservas (Prolar)**
-- Studying: **Cybersecurity · Calculus II**
+- Studying: **Cybersecurity**
 
 ---
 
@@ -91,36 +91,6 @@ Python • Java • Flask • SQL • Git
 
 - Website: https://carnauba.dev.br/
 - Website code: https://github.com/VinyCarnauba06/meu-site
-- LinkedIn: https://www.linkedin.com/in/vinícius-carnaúba-82830a379/
-
----
-
-## 🇪🇸 Español
-
-Desarrollador enfocado en desarrollo backend/fullstack.
-Experiencia práctica construyendo aplicaciones reales con autenticación, lógica de negocio y bases de datos.
-Actualmente también estudiando ciberseguridad.
-
----
-
-### 🚀 Destacado
-
-**AGE Reservas (Prolar)**  
-Sistema de gestión de reservas utilizado por una administradora de condominios en Maceió.  
-🔗 https://github.com/VinyCarnauba06/prolar-age-reservas
-
----
-
-### ⚙️ Stack
-
-Python • Java • Flask • SQL • Git
-
----
-
-### 🌐 Links
-
-- Sitio web: https://carnauba.dev.br/
-- Código del sitio: https://github.com/VinyCarnauba06/meu-site
 - LinkedIn: https://www.linkedin.com/in/vinícius-carnaúba-82830a379/
 
 ---
