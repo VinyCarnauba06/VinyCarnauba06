@@ -1,7 +1,6 @@
 <p align="right">
   <a href="#-português">🇧🇷 PT</a> |
   <a href="#-english">🇺🇸 EN</a> |
-  <a href="#-español">🇪🇸 ES</a>
 </p>
 
 # 👨‍💻 Vinícius Carnaúba
