@@ -35,11 +35,3 @@ Computer Science student (5th semester) and Full-Stack Developer based in Macei�
 - 👨‍💻 **Website Code:** [Repository](https://github.com/VinyCarnauba06/meu-site)
 - 💼 **LinkedIn:** [Vinícius Carnaúba](https://www.linkedin.com/in/vinícius-carnaúba-82830a379/)
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VinyCarnauba06&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinyCarnauba06&layout=compact&theme=radical"/>
-</p>
