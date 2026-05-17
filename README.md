@@ -22,7 +22,7 @@ Computer Science student (5th semester) and Full-Stack Developer based in Macei�
 
 ### ⚙️ Stack & Tools
 
-- **Languages:** Python • Go • Java • JavaScript
+- **Languages:** Python • Java • JavaScript
 - **Backend & DB:** Flask • Node.js • PostgreSQL • SQLite • SQLAlchemy • MongoDB
 - **Frontend:** React • Tailwind CSS • HTML5/CSS3
 - **Tools & Infra:** Git • Docker • Railway / Cloud Deployments
