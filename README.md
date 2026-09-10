@@ -155,12 +155,4 @@ Computer Science student at UNIMA Afya, building real systems for condominium ma
 - Maintaining systems **in production** for real clients
 - Open to **remote opportunities**, in Backend
 
----
 
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img height="160" src="https://streak-stats.demolab.com?user=VinyCarnauba06&theme=tokyonight&hide_border=true" />
-
-</div>
