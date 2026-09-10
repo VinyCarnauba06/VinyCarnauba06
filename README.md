@@ -162,6 +162,5 @@ Computer Science student at UNIMA Afya, building real systems for condominium ma
 ### 📊 GitHub Stats
 
 <img height="160" src="https://streak-stats.demolab.com?user=VinyCarnauba06&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VinyCarnauba06&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
