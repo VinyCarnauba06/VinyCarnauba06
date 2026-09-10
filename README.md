@@ -4,8 +4,7 @@
 
 **Full-Stack Developer · Python · Sistemas em Produção**
 
-Estudante de Ciência da Computação na UNIMA Afya, construindo sistemas reais para administradoras de condomínio.
-Foco em backend, arquitetura e regras de negócio, aprofundando meus estudos em Python.
+[🇧🇷 Português](#-português) · [🇺🇸 English](#-english)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuscarnaubadev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:viniciuscarnauba154@gmail.com)
@@ -16,7 +15,11 @@ Foco em backend, arquitetura e regras de negócio, aprofundando meus estudos em 
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🇧🇷 Português
+
+Estudante de Ciência da Computação na UNIMA Afya, construindo sistemas reais para administradoras de condomínio — não só projetos acadêmicos. Foco em backend, arquitetura e regras de negócio, aprofundando meus estudos em Python.
+
+### 🚀 Projetos em Destaque
 
 <table>
   <tr>
@@ -44,6 +47,53 @@ Foco em backend, arquitetura e regras de negócio, aprofundando meus estudos em 
     </td>
   </tr>
 </table>
+
+### 🌱 Atualmente
+
+- Aprofundando meus estudos em **Python**
+- Mantendo sistemas em **produção** para clientes reais
+- Aberto a **oportunidades remotas** ou em **Curitiba**, na área de Backend
+
+---
+
+## 🇺🇸 English
+
+Computer Science student at UNIMA Afya, building real systems for condominium management companies — not just academic projects. Focused on backend, architecture, and business logic, currently deepening my Python skills.
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 <a href="https://github.com/VinyCarnauba06/Condo-Reservas">Condo-Reservas</a></h3>
+      <p>White-label reservation system for common areas, replacing manual spreadsheet control. In production, serving dozens of condominiums. Fernet encryption for personal data (LGPD), CSRF protection and RBAC.</p>
+      <p><code>Python</code> <code>Flask</code> <code>PostgreSQL</code> <code>SQLAlchemy</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/VinyCarnauba06/site-age">AGE Institutional Site</a></h3>
+      <p>Full redesign of a condominium management company's website, with structured SEO (structured data, Open Graph, local business schema). Live, serving real clients.</p>
+      <p><code>React</code> <code>Vite</code> <code>Framer Motion</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💧 <a href="https://github.com/VinyCarnauba06/hidrometro-brk">HIDRO</a></h3>
+      <p>Water meter reading automation, replacing manual Excel-based tracking. .NET 8 API, Flutter mobile app, and computer vision (Azure Computer Vision) for automatic readings.</p>
+      <p><code>.NET 8</code> <code>Flutter</code> <code>Azure CV</code> <code>PostgreSQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ <a href="https://github.com/VinyCarnauba06/obras-cria">Obras CRIA</a></h3>
+      <p>Offline-first app for construction site oversight — automatic per-task PDF reports, photos linked via Cloudinary, sync on reconnect. In production.</p>
+      <p><code>Python</code> <code>Flask</code> <code>Cloudinary</code></p>
+    </td>
+  </tr>
+</table>
+
+### 🌱 Currently
+
+- Deepening my knowledge of **Python**
+- Maintaining systems **in production** for real clients
+- Open to **remote opportunities** or relocating to **Curitiba**, in Backend
 
 ---
 
@@ -85,21 +135,5 @@ Foco em backend, arquitetura e regras de negócio, aprofundando meus estudos em 
 
 <img height="160" src="https://streak-stats.demolab.com?user=VinyCarnauba06&theme=tokyonight&hide_border=true" />
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VinyCarnauba06&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
-## 🌱 Atualmente
-
-- Aprofundando meus estudos em **Python**
-- Mantendo sistemas em **produção** para clientes reais
-- Aberto a **oportunidades remotas** ou em **Curitiba**, na área de Backend
-
----
-
-<div align="center">
-
-*"Sistema bom é sistema que roda em produção sem eu ficar de plantão."*
 
 </div>
