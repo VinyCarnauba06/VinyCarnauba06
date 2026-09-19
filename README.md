@@ -23,17 +23,17 @@ Estudante de Ciência da Computação na UNIMA Afya, construindo sistemas reais 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🏢 <a href="https://github.com/VinyCarnauba06/Condo-Reservas">Condo-Reservas</a></h3>
       <p>Sistema white-label de reservas de áreas comuns, substituindo controle manual em planilha. Em produção, atendendo dezenas de condomínios. Criptografia Fernet para dados pessoais (LGPD), CSRF e RBAC.</p>
       <p><code>Python</code> <code>Flask</code> <code>PostgreSQL</code> <code>SQLAlchemy</code></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>💧 <a href="https://github.com/VinyCarnauba06/hidrometro-brk">HIDRO</a> · pendente</h3>
       <p>Projeto experimental para automatizar a leitura de hidrômetros e reduzir o trabalho manual em Excel. Atualmente pendente de validação da viabilidade técnica e operacional.</p>
       <p><code>.NET 8</code> <code>Flutter</code> <code>Azure CV</code> <code>PostgreSQL</code></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🏗️ <a href="https://github.com/VinyCarnauba06/obras-cria">Obras CRIA</a></h3>
       <p>App offline-first para supervisão de obras — relatórios PDF automáticos por tarefa, fotos vinculadas via Cloudinary, sincronização ao voltar online. Em produção.</p>
       <p><code>Python</code> <code>Flask</code> <code>Cloudinary</code></p>
