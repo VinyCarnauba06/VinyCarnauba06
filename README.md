@@ -29,15 +29,15 @@ Estudante de Ciência da Computação na UNIMA Afya, construindo sistemas reais 
       <p><code>Python</code> <code>Flask</code> <code>PostgreSQL</code> <code>SQLAlchemy</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/VinyCarnauba06/site-age">Site Institucional AGE</a></h3>
-      <p>Redesign completo do site de uma administradora de condomínios, com SEO estruturado (dados estruturados, Open Graph, schema de negócio local). No ar, atendendo clientes reais.</p>
+      <h3>🌐 Site Institucional AGE · projeto privado</h3>
+      <p>Redesign do site de uma administradora de condomínios, com dados estruturados, Open Graph e schema de negócio local. Site no ar; repositório privado por se tratar de um projeto de cliente.</p>
       <p><code>React</code> <code>Vite</code> <code>Framer Motion</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💧 <a href="https://github.com/VinyCarnauba06/hidrometro-brk">HIDRO</a></h3>
-      <p>Automação da leitura de hidrômetros, substituindo o processo manual em Excel. API .NET 8, app mobile Flutter e visão computacional (Azure Computer Vision) pra leitura automática.</p>
+      <h3>💧 <a href="https://github.com/VinyCarnauba06/hidrometro-brk">HIDRO</a> · pendente</h3>
+      <p>Projeto experimental para automatizar a leitura de hidrômetros e reduzir o trabalho manual em Excel. Atualmente pendente de validação da viabilidade técnica e operacional.</p>
       <p><code>.NET 8</code> <code>Flutter</code> <code>Azure CV</code> <code>PostgreSQL</code></p>
     </td>
     <td width="50%" valign="top">
@@ -100,15 +100,15 @@ Computer Science student at UNIMA Afya, building real systems for condominium ma
       <p><code>Python</code> <code>Flask</code> <code>PostgreSQL</code> <code>SQLAlchemy</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/VinyCarnauba06/site-age">AGE Institutional Site</a></h3>
-      <p>Full redesign of a condominium management company's website, with structured SEO (structured data, Open Graph, local business schema). Live, serving real clients.</p>
+      <h3>🌐 AGE Institutional Site · private client project</h3>
+      <p>Redesign of a condominium management company's website, with structured data, Open Graph and local business schema. The site is live; its repository is private because it is a client project.</p>
       <p><code>React</code> <code>Vite</code> <code>Framer Motion</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💧 <a href="https://github.com/VinyCarnauba06/hidrometro-brk">HIDRO</a></h3>
-      <p>Water meter reading automation, replacing manual Excel-based tracking. .NET 8 API, Flutter mobile app, and computer vision (Azure Computer Vision) for automatic readings.</p>
+      <h3>💧 <a href="https://github.com/VinyCarnauba06/hidrometro-brk">HIDRO</a> · on hold</h3>
+      <p>Experimental project to automate water meter readings and reduce manual Excel-based work. Currently on hold while its technical and operational feasibility is assessed.</p>
       <p><code>.NET 8</code> <code>Flutter</code> <code>Azure CV</code> <code>PostgreSQL</code></p>
     </td>
     <td width="50%" valign="top">
@@ -154,5 +154,3 @@ Computer Science student at UNIMA Afya, building real systems for condominium ma
 - Deepening my knowledge of **Python**
 - Maintaining systems **in production** for real clients
 - Open to **remote opportunities**, in Backend
-
-
