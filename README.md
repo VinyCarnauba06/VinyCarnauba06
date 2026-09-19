@@ -29,13 +29,6 @@ Estudante de Ciência da Computação na UNIMA Afya, construindo sistemas reais 
       <p><code>Python</code> <code>Flask</code> <code>PostgreSQL</code> <code>SQLAlchemy</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Site Institucional AGE · projeto privado</h3>
-      <p>Redesign do site de uma administradora de condomínios, com dados estruturados, Open Graph e schema de negócio local. Site no ar; repositório privado por se tratar de um projeto de cliente.</p>
-      <p><code>React</code> <code>Vite</code> <code>Framer Motion</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>💧 <a href="https://github.com/VinyCarnauba06/hidrometro-brk">HIDRO</a> · pendente</h3>
       <p>Projeto experimental para automatizar a leitura de hidrômetros e reduzir o trabalho manual em Excel. Atualmente pendente de validação da viabilidade técnica e operacional.</p>
       <p><code>.NET 8</code> <code>Flutter</code> <code>Azure CV</code> <code>PostgreSQL</code></p>
